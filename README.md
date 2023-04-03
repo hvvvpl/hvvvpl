@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/hvvvpl">
   <img height="160em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=hvvvpl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="190em" img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvvvpl&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="160em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvvvpl&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
