@@ -1,6 +1,5 @@
 ### Olá!, bem vindo ao meu perfil de estudos👨‍💻
 ### Aqui eu salvo meus resumos e desenvolvo projetos
-### Atualmente existem 2 projetos web em andamento que serão postados aqui🤙
 <div>
   <a href="https://github.com/hvvvpl">
   <img height="160em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=hvvvpl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
